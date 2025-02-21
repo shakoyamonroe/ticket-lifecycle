@@ -61,5 +61,3 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Issue is resolved, and final confirmation is received from the user.
 - Ticket is marked **Closed**, and feedback is collected.
 - **Ticket status**: Resolved
-
-✅ **Congratulations! You have successfully managed a ticket from intake to resolution in osTicket!**
